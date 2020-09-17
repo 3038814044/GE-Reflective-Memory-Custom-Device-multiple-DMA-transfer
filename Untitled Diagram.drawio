@@ -1,20 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2020-09-17T10:38:56.388Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="PKToaO-7YGwEgaTtHbm0" version="13.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-17T11:02:44.931Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="0P7yO5QMk9TAiZgz7BJB" version="13.7.2" type="github">
   <diagram name="Page-1" id="90a13364-a465-7bf4-72fc-28e22215d7a0">
     <mxGraphModel dx="1344" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="1">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
         <mxCell id="3a17f1ce550125da-2" value="" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="760" y="450" width="170" height="280" as="geometry" />
+          <mxGeometry x="760" y="510" width="170" height="220" as="geometry" />
         </mxCell>
         <mxCell id="3a17f1ce550125da-5" value="被测对象&lt;br&gt;（控制器）" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1050" y="530" width="117" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="457Go69n1ICu2Af2Cj9l-1" value="测试平台&lt;br&gt;（PXIe-1092）" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="785" y="450" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="457Go69n1ICu2Af2Cj9l-28" value="半实物仿真平台（HIL）" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="785" y="380" width="265" height="40" as="geometry" />
+          <mxGeometry x="760" y="440" width="265" height="40" as="geometry" />
         </mxCell>
         <mxCell id="457Go69n1ICu2Af2Cj9l-29" value="Plant 模型" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="785" y="540" width="120" height="40" as="geometry" />
